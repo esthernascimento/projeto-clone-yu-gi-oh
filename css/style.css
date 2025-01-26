@@ -70,7 +70,6 @@ body {
 
 .cartao .nivel-carta {
     display: flex;
-    /*flex-direction: row;*/
     justify-content: flex-end;
     margin-right: 10px;
     gap: 5px;
@@ -114,31 +113,31 @@ body {
 }
 
 .fundo-1 {
-    background: url(../img/fundo-1.jpg) no-repeat;
+    background: url(/img/fundo-1.jpg) no-repeat;
 }
 
 .fundo-2 {
-    background: url(../img/fundo-2.jpg) no-repeat;
+    background: url(/img/fundo-2.jpg) no-repeat;
 }
 
 .fundo-3 {
-    background: url(../img/fundo-3.jpg) no-repeat;
+    background: url(/img/fundo-3.jpg) no-repeat;
 }
 
 .fundo-4 {
-    background: url(../img/fundo-4.jpg) no-repeat;
+    background: url(/img/fundo-4.jpg) no-repeat;
 }
 
 .fundo-5 {
-    background: url(../img/fundo-5.jpg) no-repeat;
+    background: url(/img/fundo-5.jpg) no-repeat;
 }
 
 .fundo-6 {
-    background: url(../img/fundo-6.jpg) no-repeat;
+    background: url(/img/fundo-6.jpg) no-repeat;
 }
 
 .fundo-7 {
-    background: url(../img/fundo-7.jpg) no-repeat;
+    background: url(/img/fundo-7.jpg) no-repeat;
 }
 
 .btn-seta {
