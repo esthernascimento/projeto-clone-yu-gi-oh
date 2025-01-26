@@ -1,6 +1,6 @@
 body {
     font-family: 'Yugioh', serif;
-    background-image: url(/img/fundo-site.jpg);
+    background-image: url(img/fundo-site.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -60,7 +60,7 @@ body {
 .cartao .estrela {
     width: 20px;
     height: 20px;
-    background-image: url(/img/nivel-carta.png);
+    background-image: url(img/nivel-carta.png);
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;
@@ -113,31 +113,31 @@ body {
 }
 
 .fundo-1 {
-    background: url(/img/fundo-1.jpg) no-repeat;
+    background: url(img/fundo-1.jpg) no-repeat;
 }
 
 .fundo-2 {
-    background: url(/img/fundo-2.jpg) no-repeat;
+    background: url(img/fundo-2.jpg) no-repeat;
 }
 
 .fundo-3 {
-    background: url(/img/fundo-3.jpg) no-repeat;
+    background: url(img/fundo-3.jpg) no-repeat;
 }
 
 .fundo-4 {
-    background: url(/img/fundo-4.jpg) no-repeat;
+    background: url(img/fundo-4.jpg) no-repeat;
 }
 
 .fundo-5 {
-    background: url(/img/fundo-5.jpg) no-repeat;
+    background: url(img/fundo-5.jpg) no-repeat;
 }
 
 .fundo-6 {
-    background: url(/img/fundo-6.jpg) no-repeat;
+    background: url(img/fundo-6.jpg) no-repeat;
 }
 
 .fundo-7 {
-    background: url(/img/fundo-7.jpg) no-repeat;
+    background: url(img/fundo-7.jpg) no-repeat;
 }
 
 .btn-seta {
